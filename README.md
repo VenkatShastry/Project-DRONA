@@ -36,3 +36,11 @@
 - Install necessary packages via `pip`:
   ```bash
   pip install streamlit requests beautifulsoup4 google-generativeai Pillow pdf2image psycopg2
+
+
+## License
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
+
+
+## Screenshots
+
