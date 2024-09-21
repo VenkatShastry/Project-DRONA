@@ -1,0 +1,10 @@
+streamlit
+Pillow  # For handling images (PIL)
+pdf2image  # For converting PDFs to images
+google-generativeai  # Google's generative AI (if this is the correct package for Google Generative AI)
+psycopg2  # For PostgreSQL database interaction
+passlib  # For password hashing and security
+plotly  # For generating graphs (using Plotly)
+requests  # For making HTTP requests
+beautifulsoup4  # For web scraping with BeautifulSoup
+bcrypt  # For secure communication if needed (you might need this for password handling)
