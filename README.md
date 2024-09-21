@@ -43,4 +43,15 @@ This project is licensed under the [MIT License](LICENSE) - see the LICENSE file
 
 
 ## Screenshots
+This is how the project looks like,
+
+![LogIn Page](https://github.com/VenkatShastry/Project-DRONA/blob/main/Screenshots/LogIn_Page.png)
+![Register Page](https://github.com/VenkatShastry/Project-DRONA/blob/main/Screenshots/Register_Page.png)
+![ATS_Tool](https://github.com/VenkatShastry/Project-DRONA/blob/main/Screenshots/ATS_Tool.png)
+![Plagiarism Tool](https://github.com/VenkatShastry/Project-DRONA/blob/main/Screenshots/Plagiarism_Tool.png)
+![About Page](https://github.com/VenkatShastry/Project-DRONA/blob/main/Screenshots/About_Page.png)
+
+
+
+
 
