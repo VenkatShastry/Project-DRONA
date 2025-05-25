@@ -41,5 +41,5 @@ def show():
 
     We hope you find DRONA valuable in your professional journey. Thank you for choosing our tool to sharpen your edge!
 
-    For more information, support, or feedback, please contact us at +91-8105600220.
+    For more information, support, or feedback, please contact us at venkatshastrymas@gmail.com.
     """)
