@@ -8,3 +8,5 @@ plotly  # For generating graphs (using Plotly)
 requests  # For making HTTP requests
 beautifulsoup4  # For web scraping with BeautifulSoup
 bcrypt  # For secure communication if needed (you might need this for password handling)
+streamlit_option_menu
+matplotlib
